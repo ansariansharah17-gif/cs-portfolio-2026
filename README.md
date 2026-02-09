@@ -10,7 +10,12 @@ This repository contains my computer science learning journey, projects, and cou
 - Scratch Game Development
 
 ## Projects
-- Scratch Game – First Independent Project (details coming soon)
+- Scratch Game – First Independent Project
+### 🎮 Catch The Fruits – Scratch Game
+My first independent game built in Scratch.
+👉 Project Details: scratch/catch-the-fruits.md
+👉 Play Game:https://scratch.mit.edu/projects/1249290040
+
 
 ## Goals
 To pursue undergraduate studies in Computer Science and continue building real-world programming skills.

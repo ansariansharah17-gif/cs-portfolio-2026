@@ -11,6 +11,7 @@ This repository contains my computer science learning journey, projects, and cou
 
 ## Projects
 - Scratch Game – First Independent Project
+  
 ### 🎮 Catch The Fruits – Scratch Game
 My first independent game built in Scratch.
 👉 Project Details: scratch/catch-the-fruits.md

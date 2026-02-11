@@ -15,8 +15,7 @@ This repository contains my computer science learning journey, projects, and cou
 ### 🎮 Catch The Fruits – Scratch Game
 My first independent game built in Scratch.
 
-👉 Project Details: scratch/catch-the-fruits.md
-
+👉 Project Details: [Catch The Fruits](scratch/catch-the-fruits.md)
 👉 Play Game:https://scratch.mit.edu/projects/1249290040
 
 

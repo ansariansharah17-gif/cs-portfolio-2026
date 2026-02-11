@@ -1,4 +1,13 @@
 # Catch The Fruits – Scratch Game
+## Scratch Game Project
+
+This is the first game I ever built using Scratch.  
+I created it independently as part of my early learning in programming and logic building.
+
+### Features
+- Basic game mechanics
+- Interactive elements
+- Beginner programming structure
 
 ## About the Game
 This is my first Scratch game project. 

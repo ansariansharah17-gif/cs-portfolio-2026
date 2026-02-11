@@ -22,3 +22,6 @@ My first independent game built in Scratch.
 
 ## Goals
 To pursue undergraduate studies in Computer Science and continue building real-world programming skills.
+- Build a strong foundation in computer science before university
+- Develop independent programming projects
+

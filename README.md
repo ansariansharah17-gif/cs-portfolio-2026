@@ -8,7 +8,7 @@ This repository contains my computer science learning journey, projects, and cou
 - CS50x (Harvard – edX) – In Progress
 - Basics of C Programming
 - Scratch Game Development
-- Studying for HSK level 4 (optional in this poertfolio but i need to inform)
+- Studying for HSK level 4 (optional in this portfolio but i need to inform)
 
 ## Projects
 - Scratch Game – First Independent Project
